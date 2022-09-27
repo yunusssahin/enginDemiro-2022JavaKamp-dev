@@ -4,5 +4,6 @@ public class Main {
 
         System.out.println("Merhaba Java");
         System.out.println("Merhaba Java2");
+        System.out.println("merhaba java");
     }
 }
